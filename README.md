@@ -1,2 +1,3 @@
 # SQL-task
-Solve the following
+
+Write queries for the given problems
